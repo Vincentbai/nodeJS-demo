@@ -1,0 +1,15 @@
+{
+  "name": "7-hellonpm",
+  "version": "1.0.0",
+  "description": "hello npm",
+  "main": "index.js",
+  "dependencies": {
+    "math": "0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
